@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a Document Management System**
 
-- 🌱 I’m currently learning **dart, flutter**
+- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **Mobile Application Development & Designing**
+- 💬 Ask me about **Mobile Application Development, Web Development, & Designing**
 
 - 📫 How to reach me **amandadeshani1112@gmail.com**
 
