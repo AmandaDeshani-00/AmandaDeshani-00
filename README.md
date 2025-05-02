@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandadeshani-00&label=Profile%20views&color=0e75b6&style=flat" alt="amandadeshani-00" /> </p>
 
-- 🔭 I’m currently working on **a Document Management System**
+- 🔭 I’m currently working on **Facebook Clone App**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Mobile Application Development, Web Development, & Designing**
 
